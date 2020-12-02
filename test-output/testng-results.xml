@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicks on Sign in Button By.xpath: //div[@class='header_bar-sign_in']//span[contains(text(),'Sign in / sign up')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[send text to email Field By.xpath: //input[@id='login-email']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send text to Passoword Field By.xpath: //input[@id='login-password']<br>]]>
+    </line>
+    <line>
+      <![CDATA[click on Submit button By.xpath: //tbody//button[@class='btn  regular-button  submit']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign In Button By.xpath: //div[@class='header_bar-sign_in']//span[contains(text(),'Sign in / sign up')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create New Account Link By.xpath: //a[contains(@class,'popup-button default-popup-button create-account-link')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Send Email Id to Field By.xpath: //input[@id='login']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send Password to Password Field By.xpath: //input[@id='password']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send confirm my password to field By.xpath: //input[@id='password-conf']<br>]]>
+    </line>
+    <line>
+      <![CDATA[ clicks on Create Button By.xpath: //div[@class='button submit']//button<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on HotDeal Tab By.xpath: //div[@id='header-area']//span[text()='Hot deals']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sale Link By.xpath: //body/div[@id='page-wrapper']/div[@id='page']/div[@id='header-area']/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]/span[1]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Lace Booot Link Text By.xpath: //a[contains(text(),'Lace-Up Boots in Light Brown')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Verifying Text Lace Boot Message By.xpath: //a[contains(text(),'Lace-Up Boots in Light Brown')]<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="43673" started-at="2020-12-02T16:03:54Z" finished-at="2020-12-02T16:04:38Z">
+    <groups>
+    </groups>
+    <test name="All Test" duration-ms="43673" started-at="2020-12-02T16:03:54Z" finished-at="2020-12-02T16:04:38Z">
+      <class name="com.xcart.demostore.testsuite.AllTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="setUp" is-config="true" duration-ms="8671" started-at="2020-12-02T16:03:54Z" finished-at="2020-12-02T16:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySignInSuccessfullyWithValidCredentials()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="verifySignInSuccessfullyWithValidCredentials" duration-ms="5858" started-at="2020-12-02T16:04:03Z" finished-at="2020-12-02T16:04:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Sign in Button By.xpath: //div[@class='header_bar-sign_in']//span[contains(text(),'Sign in / sign up')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[send text to email Field By.xpath: //input[@id='login-email']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send text to Passoword Field By.xpath: //input[@id='login-password']<br>]]>
+            </line>
+            <line>
+              <![CDATA[click on Submit button By.xpath: //tbody//button[@class='btn  regular-button  submit']<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignInSuccessfullyWithValidCredentials -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="tearDown" is-config="true" duration-ms="673" started-at="2020-12-02T16:04:09Z" finished-at="2020-12-02T16:04:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="setUp" is-config="true" duration-ms="7543" started-at="2020-12-02T16:04:09Z" finished-at="2020-12-02T16:04:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserCanRegisterSuccessfully()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="verifyUserCanRegisterSuccessfully" duration-ms="7222" started-at="2020-12-02T16:04:17Z" finished-at="2020-12-02T16:04:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Sign In Button By.xpath: //div[@class='header_bar-sign_in']//span[contains(text(),'Sign in / sign up')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create New Account Link By.xpath: //a[contains(@class,'popup-button default-popup-button create-account-link')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Send Email Id to Field By.xpath: //input[@id='login']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send Password to Password Field By.xpath: //input[@id='password']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send confirm my password to field By.xpath: //input[@id='password-conf']<br>]]>
+            </line>
+            <line>
+              <![CDATA[ clicks on Create Button By.xpath: //div[@class='button submit']//button<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanRegisterSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="tearDown" is-config="true" duration-ms="659" started-at="2020-12-02T16:04:24Z" finished-at="2020-12-02T16:04:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="setUp" is-config="true" duration-ms="8047" started-at="2020-12-02T16:04:25Z" finished-at="2020-12-02T16:04:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserCanSucceffulyNavigateHotDealLink()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="verifyUserCanSucceffulyNavigateHotDealLink" duration-ms="4232" started-at="2020-12-02T16:04:33Z" finished-at="2020-12-02T16:04:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on HotDeal Tab By.xpath: //div[@id='header-area']//span[text()='Hot deals']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sale Link By.xpath: //body/div[@id='page-wrapper']/div[@id='page']/div[@id='header-area']/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]/span[1]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Lace Booot Link Text By.xpath: //a[contains(text(),'Lace-Up Boots in Light Brown')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Verifying Text Lace Boot Message By.xpath: //a[contains(text(),'Lace-Up Boots in Light Brown')]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanSucceffulyNavigateHotDealLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xcart.demostore.testsuite.AllTests@7f690630]" name="tearDown" is-config="true" duration-ms="748" started-at="2020-12-02T16:04:37Z" finished-at="2020-12-02T16:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xcart.demostore.testsuite.AllTests -->
+    </test> <!-- All Test -->
+  </suite> <!-- testsuite -->
+</testng-results>

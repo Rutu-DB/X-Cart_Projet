@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - All Tests</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>All Tests</h1>
+<p>
+  Test duration: 104.828s
+</p>
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.xcart.demostore.testsuite.AllTests</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  verifyUserCanSucceffulyNavigateHotDealLink
+      </td>
+  <td class="duration">
+    50.731s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicking on HotDeal Tab By.xpath: //div[@id='header-area']//span[text()='Hot deals']<br>
+                                Clicking on Sale Link By.xpath: //body/div[@id='page-wrapper']/div[@id='page']/div[@id='header-area']/div[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]/span[1]<br>
+                                Click to see screenshot
+                                <a target = "_blank" href=C:\Users\rutun\IdeaProjects\xcartProject/test-output/html/verifyUserCanSucceffulyNavigateHotDealLinkWed_Dec_02_16_10_25_GMT_2020.jpg>Screenshot</a>
+                                <br>
+                                <br>
+                                <a target = "_blank" href=C:\Users\rutun\IdeaProjects\xcartProject/test-output/html/verifyUserCanSucceffulyNavigateHotDealLinkWed_Dec_02_16_10_25_GMT_2020.jpg><img src=C:\Users\rutun\IdeaProjects\xcartProject/test-output/html/verifyUserCanSucceffulyNavigateHotDealLinkWed_Dec_02_16_10_25_GMT_2020.jpg height=200 width=200></img></a>
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.ElementNotInteractableException: element not interactable<br/>
+&nbsp; (Session info: chrome=87.0.4280.66)<br/>
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;<br/>
+System info: host: &apos;LAPTOP-39B32HH7&apos;, ip: &apos;192.168.137.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\rutun\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61116}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}<br/>
+Session ID: ea9f217519d71446b6d5775f8c601f96</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)<br />
+              sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)<br />
+              java.lang.reflect.Constructor.newInstance(Constructor.java:423)<br />
+              org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)<br />
+              org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)<br />
+              org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)<br />
+              org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)<br />
+              org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)<br />
+              org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)<br />
+              org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)<br />
+              com.xcart.demostore.utility.Utility.clickOnElement(Utility.java:49)<br />
+              com.xcart.demostore.pages.HotDealPage.selectSaleLink(HotDealPage.java:23)<br />
+              com.xcart.demostore.testsuite.AllTests.verifyUserCanSucceffulyNavigateHotDealLink(AllTests.java:36)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:498)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:583)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:648)<br />
+              org.testng.TestRunner.run(TestRunner.java:505)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:455)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:364)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1137)<br />
+              org.testng.TestNG.runSuites(TestNG.java:1049)<br />
+              org.testng.TestNG.run(TestNG.java:1017)<br />
+              com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)<br />
+              com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)<br />
+                </div>
+      </td>
+</tr>
+      </table>
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">com.xcart.demostore.testsuite.AllTests</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  verifySignInSuccessfullyWithValidCredentials
+      </td>
+  <td class="duration">
+    11.077s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicks on Sign in Button By.xpath: //div[@class='header_bar-sign_in']//span[contains(text(),'Sign in / sign up')]<br>
+                                send text to email Field By.xpath: //input[@id='login-email']<br>
+                                send text to Passoword Field By.xpath: //input[@id='login-password']<br>
+                                click on Submit button By.xpath: //tbody//button[@class='btn  regular-button  submit']<br>
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  verifyUserCanRegisterSuccessfully
+      </td>
+  <td class="duration">
+    15.177s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Clicking on Sign In Button By.xpath: //div[@class='header_bar-sign_in']//span[contains(text(),'Sign in / sign up')]<br>
+                                Click on Create New Account Link By.xpath: //a[contains(@class,'popup-button default-popup-button create-account-link')]<br>
+                                Send Email Id to Field By.xpath: //input[@id='login']<br>
+                                send Password to Password Field By.xpath: //input[@id='password']<br>
+                                send confirm my password to field By.xpath: //input[@id='password-conf']<br>
+                                 clicks on Create Button By.xpath: //div[@class='button submit']//button<br>
+                  </div>
+    
+
+      </td>
+</tr>
+      </table>
+  
+</body>
+</html>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ffb099d-7cab-4940-8037-72eaf3e6ce47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/Driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/Driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/Driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/Driver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/homeWorkWeek10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/Apparel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/BaseNopCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/BooksLinkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/DigitalDownloads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/ElectronicClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/GiftCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/JewelleryClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/LoginFunctionalityFailed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/LoginFunctionalitySuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek10/src/homeWorkWeek10NopCommerce/RegisterFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/homeWorkWeek12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/main/java/com/nopcommerce/demo/basePage/Basepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/main/java/com/nopcommerce/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/main/java/com/nopcommerce/demo/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/main/java/com/nopcommerce/demo/pages/TestSuitePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/main/java/com/nopcommerce/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/TestNG/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/TestNG/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/TestNG/TestNGListnersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/TestNG/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/customListners/CustomListners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/testsuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/testsuite/RegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/com/nopcommerce/demo/testsuite/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/runners/listner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/runners/reportNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/runners/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/Default Suite/homeWorkWeek12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/Default Suite/homeWorkWeek12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/junitreports/TEST-com.nopcommerce.demo.testsuite.TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/homeWorkWeek12.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeWorkWeek12/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework9/homework9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework9/src/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework9/src/seleniumWeek9_Version1/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework9/src/seleniumWeek9_Version1/FindFirstElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework9/src/seleniumWeek9_Version1/JunitIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/homeworkWeek11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/main/java/com/nopcommerce/demo/basepage/Basepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/main/java/com/nopcommerce/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/main/java/com/nopcommerce/demo/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/test/java/com/nopcommerce/demo/testSuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/test/java/com/nopcommerce/demo/testSuite/RegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/test/java/com/nopcommerce/demo/testSuite/TestSuiteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/test/java/com/nopcommerce/demo/testSuite/TopMenuTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek11/target/classes/com/nopcommerce/demo/utility/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek2/homeworkWeek2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek2/out/production/homeworkWeek2/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek2/out/production/homeworkWeek2/homeworkWeek2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek2/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek2/src/homeworkWeek2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek3/homework3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek8/homeworkWeek8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek8/out/production/homeworkWeek8/homeworkWeek8/carpetCostCalculator/carpetCostCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homeworkWeek8/src/homeworkWeek8/carpetCostCalculator/carpetCostCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapracticer/javapracticer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapracticer/out/production/javapracticer/carpetCostCalculator/carpetCostCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javapracticer/src/carpetCostCalculator/carpetCostCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/sample-maven-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/basepage/Basepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/main/java/com/nopcommerce/demo/utility/UtilityClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/test/java/com/nopcommerce/demo/testSuite/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-maven-project/src/test/java/com/nopcommerce/demo/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week6/week6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xcart/demostore/basePage/Basepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xcart/demostore/pages/HotDealPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xcart/demostore/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xcart/demostore/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xcart/demostore/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xcart/demostore/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xcart/demostore/TestNG/TestNGDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xcart/demostore/TestNG/TestNGListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xcart/demostore/TestNG/TestNGListnersDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xcart/demostore/TestNG/TestNGPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xcart/demostore/customListners/CustomListners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xcart/demostore/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xcart/demostore/testsuite/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/listner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/reportNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/runners/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/ExcelRead.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/testdata/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/sorttable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/verifyUserCanSucceffulyNavigateHotDealLinkWed_Dec_02_16_10_25_GMT_2020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.xcart.demostore.testsuite.AllTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/All Test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/testsuite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testsuite/All Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testsuite/All Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testsuite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/xml/com.xcart.demostore.testsuite.AllTests_results.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l1tw23rU3W3Xc6lZTyo10GhZCx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xcart.demostore.utility" />
+      <recent name="com.xcart.demostore.testbase" />
+      <recent name="com.xcart.demostore.propertyreader" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rutun\IdeaProjects\xcartProject\src\test\java\com\xcart\demostore" />
+      <recent name="C:\Users\rutun\IdeaProjects\xcartProject\src\test\java" />
+      <recent name="C:\Users\rutun\IdeaProjects\xcartProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AllTests.verifyUserCanSucceffulyNavigateHotDealLink (1)">
+    <configuration name="AllTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xcartProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resources.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="resources.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="resources.testsuite.AllTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xcartProject" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xcart.demostore.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.xcart.demostore.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.xcart.demostore.testsuite.AllTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTests.verifyUserCanSucceffulyNavigateHotDealLink (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xcartProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xcart.demostore.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xcart.demostore.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.xcart.demostore.testsuite.AllTests" />
+      <option name="METHOD_NAME" value="verifyUserCanSucceffulyNavigateHotDealLink" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/listner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xcartProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/listner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/reportNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xcartProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/reportNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xcartProject" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/runners/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.AllTests" />
+      <item itemvalue="TestNG.AllTests.verifyUserCanSucceffulyNavigateHotDealLink (1)" />
+      <item itemvalue="TestNG.C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/testng.xml" />
+      <item itemvalue="TestNG.C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/reportNG.xml" />
+      <item itemvalue="TestNG.C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/listner.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AllTests.verifyUserCanSucceffulyNavigateHotDealLink (1)" />
+        <item itemvalue="TestNG.C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/reportNG.xml" />
+        <item itemvalue="TestNG.C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/listner.xml" />
+        <item itemvalue="TestNG.C:/Users/rutun/IdeaProjects/xcartProject/src/test/java/resources/runners/testng.xml" />
+        <item itemvalue="TestNG.AllTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ffb099d-7cab-4940-8037-72eaf3e6ce47" name="Default Changelist" comment="" />
+      <created>1606776661582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606776661582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606924884164">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606924884164" />
+    <state x="343" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606920113654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1606920113654" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1606928189221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606779541192" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606928189221" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1606928189221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606779541192" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606928189221" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1606928189221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606779541192" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606928189221" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1606928189221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1366.728/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1606779541192" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606928189221" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1606926231787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606926231787" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1606926231787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606926231787" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1606926231787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606926231787" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1606926231787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606926231787" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1606862284161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606862284161" />
+  </component>
+</project>
